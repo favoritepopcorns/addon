@@ -8,22 +8,4 @@
 <externallink>LINK DE OUTRO MENU CHANNEL ou LISTA DE ITENS</externallink>
 </channel>
 
-<channel>
-<name>[B][COLOR lime]●[/COLOR] [COLOR white]AVENTURA[/COLOR][/B]</name>
-<thumbnail>LINK DO THUMBNAIL QUE FICA DO LADO</thumbnail>
-<externallink>LINK DE OUTRO MENU CHANNEL ou LISTA DE ITENS</externallink>
-</channel>
-
-<channel>
-<name>[B][COLOR lime]●[/COLOR] [COLOR white]ANIMAÇAO[/COLOR][/B]</name>
-<thumbnail>LINK DO THUMBNAIL QUE FICA DO LADO</thumbnail>
-<externallink>LINK DE OUTRO MENU CHANNEL ou LISTA DE ITENS</externallink>
-</channel>
-
-<channel>
-<name>[B][COLOR lime]●[/COLOR] [COLOR white]CRIME[/COLOR][/B]</name>
-<thumbnail>LINK DO THUMBNAIL QUE FICA DO LADO</thumbnail>
-<externallink>LINK DE OUTRO MENU CHANNEL ou LISTA DE ITENS</externallink>
-</channel>
-
 </channels>

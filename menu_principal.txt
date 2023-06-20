@@ -9,7 +9,7 @@
 </channel>
 
 <channel>
-<name>[B][COLOR lime]●[/COLOR] [COLOR white]Movies[/COLOR][/B]</name>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]Filmes[/COLOR][/B]</name>
 <thumbnail>LINK DO THUMBNAIL QUE FICA DO LADO</thumbnail>
 <externallink>https://raw.githubusercontent.com/favoritepopcorns/addon/main/menu_filmes.txt</externallink>
 </channel>

@@ -5,7 +5,7 @@
 <channel>
 <name>[B][COLOR lime]●[/COLOR] [COLOR white]AÇAO[/COLOR][/B]</name>
 <thumbnail>LINK DO THUMBNAIL QUE FICA DO LADO</thumbnail>
-<externallink>LINK DE OUTRO MENU CHANNEL ou LISTA DE ITENS</externallink>
+<externallink>https://raw.githubusercontent.com/favoritepopcorns/addon/main/FILMES/a%C3%A7ao.m3u8</externallink>
 </channel>
 
 </channels>

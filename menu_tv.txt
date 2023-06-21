@@ -3,21 +3,21 @@
 
 <channels>
 <channel>
-<name>[B][COLOR lime]●[/COLOR] [COLOR white]PORTUGAL[/COLOR][/B]</name>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]LISTA 1[/COLOR][/B]</name>
 <thumbnail>LINK DO THUMBNAIL QUE FICA DO LADO</thumbnail>
 <externallink>https://raw.githubusercontent.com/favoritepopcorns/addon/main/LISTAS%20IPTV/PORTUGAL.M3U8</externallink>
 </channel>
 
 <channels>
 <channel>
-<name>[B][COLOR lime]●[/COLOR] [COLOR white]BRASIL[/COLOR][/B]</name>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]LISTA 2[/COLOR][/B]</name>
 <thumbnail>LINK DO THUMBNAIL QUE FICA DO LADO</thumbnail>
 <externallink>https://raw.githubusercontent.com/favoritepopcorns/addon/main/LISTAS%20IPTV/BRASIL.M3U8</externallink>
 </channel>
 
 <channels>
 <channel>
-<name>[B][COLOR lime]●[/COLOR] [COLOR white]ESPANHA[/COLOR][/B]</name>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]LISTA 3[/COLOR][/B]</name>
 <thumbnail>LINK DO THUMBNAIL QUE FICA DO LADO</thumbnail>
 <externallink>https://raw.githubusercontent.com/favoritepopcorns/addon/main/LISTAS%20IPTV/ESPANHA.M3U8</externallink>
 </channel>

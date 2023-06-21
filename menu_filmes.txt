@@ -8,4 +8,11 @@
 <externallink>https://raw.githubusercontent.com/favoritepopcorns/addon/main/FILMES/a%C3%A7ao.m3u8</externallink>
 </channel>
 
+<channels>
+<channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]AVENTURA[/COLOR][/B]</name>
+<thumbnail>LINK DO THUMBNAIL QUE FICA DO LADO</thumbnail>
+<externallink>#</externallink>
+</channel>
+
 </channels>

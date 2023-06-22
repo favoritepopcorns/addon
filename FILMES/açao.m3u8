@@ -1,1 +1,8 @@
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/sOJAR1YasnxxOBFtSbTcS3pbjok.jpg" , 12:46
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9FFAEA411BAB632EB27F224B01FE4678F2048C9A&dn=12.46.2023.1080p.WEBRip.Legendado.mkv&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce
 
+#EXTINF:-1 tvg-logo="CAPA DO FILME" , NOME DO FILME
+plugin://plugin.video.elementum/play?uri=
+
+#EXTINF:-1 tvg-logo="CAPA DO FILME" , NOME DO FILME
+plugin://plugin.video.elementum/play?uri=

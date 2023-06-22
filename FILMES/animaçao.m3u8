@@ -1,2 +1,5 @@
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/e9L7N5z3qHHgSNUIUuBSaicQvpT.jpg" , Rally Road Racers
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:D7E4785F1412ADC08C34EF84C37A601C44A1B8C6&dn=Rally.Road.Racers.2023.1080p.HDCAM.Legendado.mkv&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce
+
 #EXTINF:-1 tvg-logo="CAPA DO FILME" , NOME DO FILME
 plugin://plugin.video.elementum/play?uri=

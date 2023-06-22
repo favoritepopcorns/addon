@@ -3,21 +3,98 @@
 
 <channels>
 <channel>
-<name>[B][COLOR lime]●[/COLOR] [COLOR white]AÇAO[/COLOR][/B]</name>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]animaçao[/COLOR][/B]</name>
 <thumbnail>LINK DO THUMBNAIL QUE FICA DO LADO</thumbnail>
-<externallink>https://raw.githubusercontent.com/favoritepopcorns/addon/main/FILMES/a%C3%A7ao.m3u8</externallink>
+<externallink>https://raw.githubusercontent.com/favoritepopcorns/addon/main/FILMES/anima%C3%A7ao.m3u8</externallink>
 </channel>
 
 <channels>
 <channel>
-<name>[B][COLOR lime]●[/COLOR] [COLOR white]AVENTURA[/COLOR][/B]</name>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]aventura[/COLOR][/B]</name>
 <thumbnail>LINK DO THUMBNAIL QUE FICA DO LADO</thumbnail>
 <externallink>https://raw.githubusercontent.com/favoritepopcorns/addon/main/FILMES/aventura.m3u8</externallink>
 </channel>
 
 <channels>
 <channel>
-<name>[B][COLOR lime]●[/COLOR] [COLOR white]TERROR[/COLOR][/B]</name>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]açao[/COLOR][/B]</name>
+<thumbnail>LINK DO THUMBNAIL QUE FICA DO LADO</thumbnail>
+<externallink>https://raw.githubusercontent.com/favoritepopcorns/addon/main/FILMES/a%C3%A7ao.m3u8</externallink>
+</channel>
+
+<channels>
+<channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]biografia[/COLOR][/B]</name>
+<thumbnail>LINK DO THUMBNAIL QUE FICA DO LADO</thumbnail>
+<externallink>https://raw.githubusercontent.com/favoritepopcorns/addon/main/FILMES/biografia.m3u8</externallink>
+</channel>
+
+<channels>
+<channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]comedia[/COLOR][/B]</name>
+<thumbnail>LINK DO THUMBNAIL QUE FICA DO LADO</thumbnail>
+<externallink>https://raw.githubusercontent.com/favoritepopcorns/addon/main/FILMES/comedia.m3u8</externallink>
+</channel>
+
+<channels>
+<channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]crime[/COLOR][/B]</name>
+<thumbnail>LINK DO THUMBNAIL QUE FICA DO LADO</thumbnail>
+<externallink>https://raw.githubusercontent.com/favoritepopcorns/addon/main/FILMES/crime.m3u8</externallink>
+</channel>
+
+<channels>
+<channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]documentario[/COLOR][/B]</name>
+<thumbnail>LINK DO THUMBNAIL QUE FICA DO LADO</thumbnail>
+<externallink>https://raw.githubusercontent.com/favoritepopcorns/addon/main/FILMES/documentario.m3u8</externallink>
+</channel>
+
+<channels>
+<channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]fantasia[/COLOR][/B]</name>
+<thumbnail>LINK DO THUMBNAIL QUE FICA DO LADO</thumbnail>
+<externallink>https://raw.githubusercontent.com/favoritepopcorns/addon/main/FILMES/fantasia.m3u8</externallink>
+</channel>
+
+<channels>
+<channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]faroeste[/COLOR][/B]</name>
+<thumbnail>LINK DO THUMBNAIL QUE FICA DO LADO</thumbnail>
+<externallink>https://raw.githubusercontent.com/favoritepopcorns/addon/main/FILMES/faroeste.m3u8</externallink>
+</channel>
+
+<channels>
+<channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]ficçao cientifica[/COLOR][/B]</name>
+<thumbnail>LINK DO THUMBNAIL QUE FICA DO LADO</thumbnail>
+<externallink>https://raw.githubusercontent.com/favoritepopcorns/addon/main/FILMES/fic%C3%A7ao-cientifica.m3u8</externallink>
+</channel>
+
+<channels>
+<channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]guerra[/COLOR][/B]</name>
+<thumbnail>LINK DO THUMBNAIL QUE FICA DO LADO</thumbnail>
+<externallink>https://raw.githubusercontent.com/favoritepopcorns/addon/main/FILMES/guerra.m3u8</externallink>
+</channel>
+
+<channels>
+<channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]historia[/COLOR][/B]</name>
+<thumbnail>LINK DO THUMBNAIL QUE FICA DO LADO</thumbnail>
+<externallink>https://raw.githubusercontent.com/favoritepopcorns/addon/main/FILMES/historia.m3u8</externallink>
+</channel>
+
+<channels>
+<channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]romance[/COLOR][/B]</name>
+<thumbnail>LINK DO THUMBNAIL QUE FICA DO LADO</thumbnail>
+<externallink>https://raw.githubusercontent.com/favoritepopcorns/addon/main/FILMES/romance.m3u8</externallink>
+</channel>
+
+<channels>
+<channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]terror[/COLOR][/B]</name>
 <thumbnail>LINK DO THUMBNAIL QUE FICA DO LADO</thumbnail>
 <externallink>https://raw.githubusercontent.com/favoritepopcorns/addon/main/FILMES/terror.m3u8</externallink>
 </channel>

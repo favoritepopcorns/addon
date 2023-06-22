@@ -1,1 +1,5 @@
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/ukFo9pwVJ5mzTgmFCanYsYC4roF.jpg" , Ride On Torrent (2023)
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:44EC6947D5325F7F722DC53164818B63575715E3&dn=Ride.On.2023.1080p.WEBRip.Legendado.mkv&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce
 
+#EXTINF:-1 tvg-logo="CAPA DO FILME" , NOME DO FILME
+plugin://plugin.video.elementum/play?uri=

@@ -1,2 +1,20 @@
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/pSJia6p7NjR3qS0hIH3EUSohUNx.jpg" , Kathal: O Caso Das Jacas Perdidas
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:DB0CCE1113534A1314D359EECDF63EECE2920B01&dn=Kathal.A.Jackfruit.Mystery.2023.1080p.WEBRip.Legendado.mkv&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce
+
+#EXTINF:-1 tvg-logo="CAPA DO FILME" , NOME DO FILME
+plugin://plugin.video.elementum/play?uri=
+
+#EXTINF:-1 tvg-logo="CAPA DO FILME" , NOME DO FILME
+plugin://plugin.video.elementum/play?uri=
+
+#EXTINF:-1 tvg-logo="CAPA DO FILME" , NOME DO FILME
+plugin://plugin.video.elementum/play?uri=
+
+#EXTINF:-1 tvg-logo="CAPA DO FILME" , NOME DO FILME
+plugin://plugin.video.elementum/play?uri=
+
+#EXTINF:-1 tvg-logo="CAPA DO FILME" , NOME DO FILME
+plugin://plugin.video.elementum/play?uri=
+
 #EXTINF:-1 tvg-logo="CAPA DO FILME" , NOME DO FILME
 plugin://plugin.video.elementum/play?uri=

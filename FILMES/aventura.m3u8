@@ -1,5 +1,50 @@
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/ukFo9pwVJ5mzTgmFCanYsYC4roF.jpg" , Ride On Torrent (2023)
 plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:44EC6947D5325F7F722DC53164818B63575715E3&dn=Ride.On.2023.1080p.WEBRip.Legendado.mkv&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce
 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/aNC9YAOFrsRAHJB2jv5LHbIJ02T.jpg" , American Raiders: Battle Fire
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:BDDC1B83B3F0A76DBB48A269B0ADA17DF98ED4E9&dn=American.Raiders.Battle.Fire.2022.1080p.WEBRip.Legendado.mkv&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/ay8SLFTMKzQ0i5ewOaGHz2bVuZL.jpg" , Attack on Titan
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:A49F18C520AC2AEC175E86771D9FE1915E5B4A7A&dn=Attack.On.Titan.2022.1080p.WEBRip.Legendado.mkv&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342//5cWXJJsPRuz85zAK7XXmu9Vfdu2.jpg" , Blueback 
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:A6205F16D84D70FC543835F46CEB06BF95B1CED4&dn=Blueback.2022.720p.CAMRip.Legendado.mkv&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342//yGpJbft7JQpQHHHasRr4wWdVcuJ.jpg" , Venus Torrent (2023)
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:EE2519E4EF0156C3998B7918E0C9A22868950914&dn=Venus.2022.720p.CAMRip.Legendado.mkv&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/wzAZnkTQZBGCxZTvZk5g5VzgKuR.jpg" , Iké Boys Torrent (2022)
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:F71CAE4EF146DF182DBF082072D6AA4DD9E9BC9A&dn=Ike.Boys.2021.1080p.WEBRip.Legendado.mkv&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/a7PZv5Px1npYX0lm1v6WtfnZcVL.jpg" , Guardians of Time
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:FFA76CC8738DA4A32D2962127962DD259DDEE4D3&dn=Guardians.of.Time.2022.1080p.WEBRip.Dublado.mkv&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/zfmhN2sAFKhLfOSNOH2iOXbEKCJ.jpg" , Curse of the Kraken
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5C63B48437F8A5AC46D2F67041D31F90441F1347&dn=Curse.of.the.Kraken.2020.1080p.WEBRip.Legendado.mkv&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/qHXTUUJ3Rsxw67Ns75u6RdGNaMJ.jpg" , Alienoid
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:F6F99A87BD8E870F575B3214D541A25208B5B464&dn=Alienoid.2022.1080p.WEBRip.Legendado.mkv&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/yWZuwxOsGyiqJy3j4YB1sFWpFxW.jpg" , Ghoster
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6DD74BD41EAA452E07DEE4F4C0E8B2ED793F8747&dn=Ghoster.2022.1080p.WEBRip.Legendado.mkv&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/t2oic7Le2a5LYz2Bjo6hrwlr6YS.jpg" , La Sombra Del Gato
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:B855A64DD44EDF3326C436F9708F7BAE8B71717C&dn=La.Sombra.Del.Gato.2021.720p.WEBRip.Legendado.mkv&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/kzYin0Tr51KOa6y8dcbbcvwcq9k.jpg" , Wolf Hound
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:A355CF734244E2BC1097BB754118870870DC9E42&dn=Wolf.Hound.2022.1080p.WEBRip.Legendado.mkv&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=http%3a%2f%2ftrax.corbina.net%3a6969%2fannounce
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/9U991H3b73u3R6u0BUQkuaSfoup.jpg" , The Siege of Robin Hood
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4D6A67C1C29E0AB3BF1C274F9DD576F15F840813&dn=The.Siege.of.Robin.Hood.2022.1080p.WEBRip.Legendado.mkv&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=http%3a%2f%2ftrax.corbina.net%3a6969%2fannounce
+
+#EXTINF:-1 tvg-logo="CAPA DO FILME" , NOME DO FILME
+plugin://plugin.video.elementum/play?uri=
+
+#EXTINF:-1 tvg-logo="CAPA DO FILME" , NOME DO FILME
+plugin://plugin.video.elementum/play?uri=
+
+#EXTINF:-1 tvg-logo="CAPA DO FILME" , NOME DO FILME
+plugin://plugin.video.elementum/play?uri=
+
 #EXTINF:-1 tvg-logo="CAPA DO FILME" , NOME DO FILME
 plugin://plugin.video.elementum/play?uri=

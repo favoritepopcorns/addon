@@ -1,14 +1,14 @@
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/pSJia6p7NjR3qS0hIH3EUSohUNx.jpg" , Kathal: O Caso Das Jacas Perdidas
 plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:DB0CCE1113534A1314D359EECDF63EECE2920B01&dn=Kathal.A.Jackfruit.Mystery.2023.1080p.WEBRip.Legendado.mkv&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce
 
-#EXTINF:-1 tvg-logo="CAPA DO FILME" , NOME DO FILME
-plugin://plugin.video.elementum/play?uri=
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/xDoghTI6uSD2GVpT8FxhtluvSZ8.jpg" , Phantom Project
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:73DFD634162C5DF3E7F3944A17828833B8561819&dn=Phantom.Project.2022.1080p.WEBRip.Legendado.mkv&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce
 
-#EXTINF:-1 tvg-logo="CAPA DO FILME" , NOME DO FILME
-plugin://plugin.video.elementum/play?uri=
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/jZ1PhCyXEySYR7f9q52KYb62Bwp.jpg" , Paint
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5676C5395688885D988DD135607B8AEE907A68EA&dn=Paint.2023.1080p.WEBRip.Legendado.mkv&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce
 
-#EXTINF:-1 tvg-logo="CAPA DO FILME" , NOME DO FILME
-plugin://plugin.video.elementum/play?uri=
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/8j4Xt6VFuFzwWR3vCnJwILPmfFH.jpg" , Bear Man
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:52A22658F40D49DE6A81C7177545415EFDC76F3C&dn=Bear.Man.2023.1080p.WEBRip.Legendado.mkv&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce
 
 #EXTINF:-1 tvg-logo="CAPA DO FILME" , NOME DO FILME
 plugin://plugin.video.elementum/play?uri=

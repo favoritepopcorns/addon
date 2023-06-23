@@ -1,20 +1,20 @@
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/9yMQxHIQERFxNPnbbhxOO8nqVdq.jpg" , Mil e Um Torrent (2023)
 plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3893E175E2DC6CFE655CC4C76D6A394761654237&dn=A.Thousand.and.One.2023.1080p.WEBRip.Legendado.mkv&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce
 
-#EXTINF:-1 tvg-logo="CAPA DO FILME" , NOME DO FILME
-plugin://plugin.video.elementum/play?uri=
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/9yMQxHIQERFxNPnbbhxOO8nqVdq.jpg" , Mil e Um Torrent
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3893E175E2DC6CFE655CC4C76D6A394761654237&dn=A.Thousand.and.One.2023.1080p.WEBRip.Legendado.mkv&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce
 
-#EXTINF:-1 tvg-logo="CAPA DO FILME" , NOME DO FILME
-plugin://plugin.video.elementum/play?uri=
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/gOCNTSrfVhOKfAkUg8aofHWe69s.jpg" , I Am DB Cooper
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:94E2892201D9BFBD0C5C2AFC09ACD234A81DD794&dn=I.Am.DB.Cooper.2022.1080p.WEBRip.Legendado.mkv&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce
 
-#EXTINF:-1 tvg-logo="CAPA DO FILME" , NOME DO FILME
-plugin://plugin.video.elementum/play?uri=
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/g1A1dtk1iLksWfsPT2F5MnkyicK.jpg" , Remp-it 2
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:AEBDDD86A229DE5A2ADCF9C07BF4C70116A29FAA&dn=Remp-it.2.2022.1080p.WEBRip.Legendado.mkv&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce
 
-#EXTINF:-1 tvg-logo="CAPA DO FILME" , NOME DO FILME
-plugin://plugin.video.elementum/play?uri=
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/jE8PHhIVQotajOBPSEpu2UUPPGz.jpg" , Bikini Hackers
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:B57A06CCE817572578AE879B2779E5251A6EF184&dn=Bikini.Hackers.2023.1080p.WEBRip.Legendado.mkv&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce
 
-#EXTINF:-1 tvg-logo="CAPA DO FILME" , NOME DO FILME
-plugin://plugin.video.elementum/play?uri=
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/yC2KRI4cWkcWwWIpXMZpyHAOyNz.jpg" , Banger
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:78B16E36356205925E8758FEAD20359B7E35F777&dn=Banger.2022.1080p.WEBRip.Legendado.mkv&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce
 
 #EXTINF:-1 tvg-logo="CAPA DO FILME" , NOME DO FILME
 plugin://plugin.video.elementum/play?uri=

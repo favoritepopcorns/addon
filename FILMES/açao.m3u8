@@ -1,8 +1,36 @@
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/sOJAR1YasnxxOBFtSbTcS3pbjok.jpg" , 12:46
 plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9FFAEA411BAB632EB27F224B01FE4678F2048C9A&dn=12.46.2023.1080p.WEBRip.Legendado.mkv&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce
 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/sOJAR1YasnxxOBFtSbTcS3pbjok.jpg" , 12:46
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9FFAEA411BAB632EB27F224B01FE4678F2048C9A&dn=12.46.2023.1080p.WEBRip.Legendado.mkv&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/tIFq7whMaQaduV990viTHv12YlY.jpg" ,Black Lotus
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:78BB3A681475918BECF8AE2368153CE63986DF05&dn=Black.Lotus.2023.1080p.WEBRip.Legendado.mkv&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/dmP0vLsTn8ytZ2kZpD7xb9VtwGd.jpg" , Abducted on Prom Night
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:A60AD37603520B3AB1793EF118704063E798C522&dn=Abducted.On.Prom.Night.2023.1080p.WEBRip.Legendado.mkv&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/gRBsjarhPCNv0budtWKEKT5eNjw.jpg" , Wolf Mountain
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:91ABD7CECD496A4FF6C77D70B3E4E585AF104C81&dn=Wolf.Mountain.2022.1080p.WEBRip.Legendado.mkv&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/2ImE5thLOnPCtMOfbtr4yoK7pDd.jpg" , Transmutators 
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:178088DBE54A716F39505AE6D1039CB3D53B3C5B&dn=Transmutators.2023.1080p.WEBRip.Legendado.mkv&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/wunUnz175JuZJPOXFKV16Ru1bZr.jpg" , The Irish Mob
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:483CC28AF7FD83BA5BA0EB5CAF80446A6A2B5BEF&dn=The.Irish.Mob.2023.1080p.WEBRip.Legendado.mkv&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce
+
 #EXTINF:-1 tvg-logo="CAPA DO FILME" , NOME DO FILME
 plugin://plugin.video.elementum/play?uri=
 
 #EXTINF:-1 tvg-logo="CAPA DO FILME" , NOME DO FILME
 plugin://plugin.video.elementum/play?uri=
+
+#EXTINF:-1 tvg-logo="CAPA DO FILME" , NOME DO FILME
+plugin://plugin.video.elementum/play?uri=
+
+#EXTINF:-1 tvg-logo="CAPA DO FILME" , NOME DO FILME
+plugin://plugin.video.elementum/play?uri=
+
+#EXTINF:-1 tvg-logo="CAPA DO FILME" , NOME DO FILME
+plugin://plugin.video.elementum/play?uri=
+

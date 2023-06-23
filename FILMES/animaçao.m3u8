@@ -1,5 +1,33 @@
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/e9L7N5z3qHHgSNUIUuBSaicQvpT.jpg" , Rally Road Racers
 plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:D7E4785F1412ADC08C34EF84C37A601C44A1B8C6&dn=Rally.Road.Racers.2023.1080p.HDCAM.Legendado.mkv&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce
 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/gISoDEiaUH9BNEunmLC7FgUVaia.jpg" , Dolphin Boy Torrent (2023)
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7DF3704C0B43EE30243DF898F28E43E770F6BDA4&dn=Dolphin.Boy.2022.1080p.WEBRip.Legendado.mkv&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342//gVPw9gRPsZZhzY6cIXp6h6nep5M.jpg" , Epic Tails Torrent (2023)
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:691ACDB0402F23DA62942A98A99C3FF81AEFF730&dn=Pattie.et.la.colere.de.Poseidon.2022.720p.CAMRip.Legendado.mkv&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342//2DrBGSfdoJKd6kfFUMFAe8YS0E3.jpg" , Asterix & Obelix: O Reino do Meio
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:D7FAE8ED74E8D9C45B14B6B95D84FA31DAA7EE9C&dn=Asterix.%26.Obelix.The.Middle.Kingdom.2023.720p.CAMRip.Legendado.mkv&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/X32TnGBup6HRSoY4RXbQEDhRh4.jpg" , Mad God Torrent (2022)
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5147E0043796E8471295646C38F990E20870FF98&dn=Mad.God.2021.1080p.WEBRip.Legendado.mkv&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=http%3a%2f%2ftrax.corbina.net%3a6969%2fannounce
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/zHCEBwUwU6qTQMmwFWsRppN1neO.jpg" , Dogtanian and the Three Muskehounds
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9BD5E2BC63C35E1EF184F5B7B191A27C1054A3E9&dn=Dogtanian.and.the.Three.Muskehounds.2021.1080.WEBRip.Legendado.mkv&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=http%3a%2f%2ftrax.corbina.net%3a6969%2fannounce
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/97zKwVhOLyTnFbnuLZHbOboLyrM.jpg" , Batman: Morte em Família
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b8a6186352711900ffb1926977a194a123a249b0&dn=Batman.Death.in.the.Family.2020.720p.BDRip.Legendado.mkv&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/xSQ9u3cc6LiUQFa7tL30dwq81Et.jpg" , Josep Torrent (2020)
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4B6AC8B1A2DD1F032B440717A1AAFDA163EC8F8D&dn=Josep.2020.1080p.WEBRip.Legendado.mkv&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=http%3a%2f%2ftrax.corbina.net%3a6969%2fannounce
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/soHKrMOGCg6T8YJ7kU4aQVCbQBe.jpg" , Kung Fu Mulan
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:76F4DC28D6179B5427537D652DACFEF8E4EA2A66&dn=Kung.Fu.Mulan.2020.1080p.WEBRip.Legendado.mkv&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=http%3a%2f%2ftrax.corbina.net%3a6969%2fannounce
+
 #EXTINF:-1 tvg-logo="CAPA DO FILME" , NOME DO FILME
 plugin://plugin.video.elementum/play?uri=
+
+#EXTINF:-1 tvg-logo="CAPA DO FILME" , NOME DO FILME
+plugin://plugin.video.elementum/play?uri=
+
